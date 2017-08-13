@@ -1,0 +1,6 @@
+framework module Pods_GenericMapperUITests {
+  umbrella header "Pods-GenericMapperUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_GenericMapper {
+  umbrella header "Pods-GenericMapper-umbrella.h"
+
+  export *
+  module * { export * }
+}
